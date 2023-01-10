@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udemypractice/static/css/main.7bd0193d.css",
+    "main.js": "/udemypractice/static/js/main.3a2cb550.js",
+    "static/js/787.def0f6fb.chunk.js": "/udemypractice/static/js/787.def0f6fb.chunk.js",
+    "index.html": "/udemypractice/index.html",
+    "main.7bd0193d.css.map": "/udemypractice/static/css/main.7bd0193d.css.map",
+    "main.3a2cb550.js.map": "/udemypractice/static/js/main.3a2cb550.js.map",
+    "787.def0f6fb.chunk.js.map": "/udemypractice/static/js/787.def0f6fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd0193d.css",
+    "static/js/main.3a2cb550.js"
+  ]
+}
